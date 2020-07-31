@@ -1,104 +1,111 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://upload.wikimedia.org/wikipedia/en/b/bc/Thrice%E2%80%99s_tenth_studio_album_cover%2C_Palms.jpeg",
+    "name": "Çagrı Gökçe",
+    "role": "full-stack web developer",
+    "linkedinId":" linkedin.com/cagrigokce",
+    "skypeid": "-",
+    "roleDescription": " I focus on building web applications with Java & Angular, curious about #GoLang and #Rust, and experimenting with Machine Learning!",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/cagrigokce/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/cgokce",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/cagrigokce",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am a CS graduate from ITU, Turkey. Trying my best on being a full stack web developer. I believe the consistency and hard work will help on achieving the dreams in life.",
+    "address":"Istanbul, Turkey",
+    "website":"https://github.com/cgokce",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Bogazici University",
+        "specialization":"MSc. Computer Science",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":"Machine Learning, Data Science, Deep Learning, Computer Vision"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Istanbul Technical University",
+        "specialization":"BSc. Computer Science",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2027",
+        "Achievements":"Algorithms, Data Structures, Object Oriented Design Principles"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Teaching Assistant",
+        "specialization":"Teaching Assistant",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2020",
+        "Achievements":"Helped on algorithms class. Prepared and evaluated programming assignments. "
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Bunsar (Startup)",
+        "specialization":"Full Stack Developer / Data Scientist",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2019",
+        "Achievements":"Developed an ongoing web application with PHP, JS and Python. "
+      },
+      {
+        "CompanyName":"Virasoft (Startup)",
+        "specialization":"Intern Software Developer",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2016",
+        "Achievements":"Built a social media web app usign Python Flask and JS."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Spring"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Angular"
+      },
+      {
+        "skillname":"Python"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"LogicText",
+        "description":"A ML powered logical text generator reflecting the wisdom of thousand years.",
+        "imgurl":"images/portfolio/into-the-light.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"He conquers who endures.",
+        "name":"Persius"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"You know the real meaning of peace only if you have been through the war.",
+        "name":"Kosovar"
+      },
+      {
+        "description":"No battle plan survives contact with the enemy.",
+        "name":"Colin Powell"
+      },
+      {
+        "description":"Let your plans be as dark and impenetrable as night, and when you move, fall like a thunderbolt.",
+        "name":"Sun Tzu"
+      },
+      {
+        "description":"A man's feet must be planted in his country, but his eyes should survey the world.",
+        "name":"George Santayana"
       }
     ]
   }

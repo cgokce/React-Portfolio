@@ -81,6 +81,11 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Flashback",
+        "description":"A third party ESO addon that generates responses to the event callbacks.",
+        "imgurl":"images/portfolio/coffee.jpg"
+      },
+      {
         "name":"LogicText",
         "description":"A ML powered logical text generator reflecting the wisdom of thousand years.",
         "imgurl":"images/portfolio/into-the-light.jpg"

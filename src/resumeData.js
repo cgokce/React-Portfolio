@@ -4,7 +4,7 @@ let resumeData = {
     "role": "full-stack web developer",
     "linkedinId":" linkedin.com/cagrigokce",
     "skypeid": "-",
-    "roleDescription": " I focus on building web applications with Java & Angular, curious about #GoLang and #Rust, and experimenting with Machine Learning!",
+    "roleDescription": " I focus on building web applications with Java, Spring Boot and React.js, curious about #GoLang, and experimenting with Machine Learning!",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a CS graduate from ITU, Turkey. Trying my best on being a full stack web developer. I believe the consistency and hard work will help on achieving the dreams in life.",
+    "aboutme":"I am a CS graduate from Istanbul, Turkey. Trying my best on being a full stack web developer. I believe the consistency and hard work will help on achieving the dreams in life.",
     "address":"Istanbul, Turkey",
     "website":"https://github.com/cgokce",
     "education":[
@@ -37,13 +37,20 @@ let resumeData = {
         "UniversityName":"Istanbul Technical University",
         "specialization":"BSc. Computer Science",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2027",
+        "YearOfPassing":"2018",
         "Achievements":"Algorithms, Data Structures, Object Oriented Design Principles"
       }
     ],
     "work":[
       {
-        "CompanyName":"Teaching Assistant",
+        "CompanyName":"Oredata",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Present",
+        "Achievements":"Building backend applications and big data solutions with Java and Spring Boot."
+      },
+      {
+        "CompanyName":"Bogazici University",
         "specialization":"Teaching Assistant",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2020",
@@ -73,7 +80,7 @@ let resumeData = {
         "skillname":"Spring"
       },
       {
-        "skillname":"Angular"
+        "skillname":"React"
       },
       {
         "skillname":"Python"
